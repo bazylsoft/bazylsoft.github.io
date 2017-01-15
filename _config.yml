@@ -2,7 +2,7 @@
 title: BazylSoft company site
 description: 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://localhost:3000" # the base hostname & protocol
+url: "http://bazylsoft.github.io" # the base hostname & protocol
 
 # User settings
 username: bazylSoft
