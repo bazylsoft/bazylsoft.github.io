@@ -2,13 +2,13 @@
 title: BazylSoft company site
 description: 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://bazylsoft.github.io" # the base hostname & protocol
+url: "http://bazylsoft.pl" # the base hostname & protocol
 
 # User settings
 username: bazylSoft
 user_description: 
 user_title: To make tournament management easier
-email: mdziurowski@gmail.com
+email: office@bazylsoft.pl
 
 
 # Build settings
